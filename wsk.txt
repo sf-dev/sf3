@@ -1,2 +1,4 @@
 ssadasda:wq
 wsk jest fajna
+A zato jawa jest kiepska
+
